@@ -26,8 +26,8 @@ GET - `http://localhost/api/customers`
 
 ### Storing a lead or customer
 
-POST - `http://localhost/api/leads/store`
-POST - `http://localhost/api/customers/store`
+POST - `http://localhost/api/leads`
+POST - `http://localhost/api/customers`
 
 Headers:
 	Accept: application/json
